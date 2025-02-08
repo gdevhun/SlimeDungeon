@@ -36,10 +36,10 @@
 | 이도연 | Designer | UI, LevelDesign |
 
 ## 빌드 파일 링크
-#### https://drive.google.com/file/d/1wGaCKwylWl5jN2ajxbpxPC8NcxWjDzft/view?usp=sharing
+[![빌드 파일 다운로드](https://img.shields.io/badge/DownloadLink-ff5c8d?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1wGaCKwylWl5jN2ajxbpxPC8NcxWjDzft/view?usp=sharing)
 
 ## 유튜브 시연 영상
-#### https://youtu.be/wQmIZXtzDl0
+[![유튜브 시연 영상](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wQmIZXtzDl0)
 ## 기술 스택 💻
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=red">
